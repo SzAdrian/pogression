@@ -31,10 +31,10 @@ export default function PlayerTable(props) {
               Name
             </TableCell>
             <TableCell style={{ fontWeight: "bold" }} align="center">
-              Strigulak
+              Points
             </TableCell>
             <TableCell style={{ fontWeight: "bold" }} align="center">
-              Minimum Kills
+              Games
             </TableCell>
             <TableCell style={{ fontWeight: "bold" }} align="center">
               Kills

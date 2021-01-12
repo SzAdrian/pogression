@@ -8,6 +8,16 @@ import { createMuiTheme, CssBaseline, ThemeProvider } from "@material-ui/core";
 import "./index.css";
 import AppContextProvider from "./components/AppContext";
 
+const firebaseConfig = {
+  apiKey: "AIzaSyA2lwwOolZvpSPhTzlZUjYy59tJRSnxNnU",
+  authDomain: "strigula-93e27.firebaseapp.com",
+  projectId: "strigula-93e27",
+  storageBucket: "strigula-93e27.appspot.com",
+  messagingSenderId: "408375022223",
+  appId: "1:408375022223:web:885355baca8d67002f56fa",
+  measurementId: "G-KLBGFHK9PJ",
+};
+
 const darkTheme = createMuiTheme({
   palette: {
     primary: { main: "#fa4454" },

@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+}
+
+.MuiTableCell-root {
+  border-bottom: 1px solid white !important;
+}
+.MuiFab-root {
+  position: absolute !important;
+  right: 1em;
+  bottom: 1em;
+}
